@@ -1,5 +1,5 @@
 /*
- * "Everything in C is a file".
+ * "Everything in Linux is a file".
  * This phrase is specially useful when understanding how IO write/read
  * functions work, as they operate on 'files'. 'stdin', 'stdout' and 'stderr'
  * are some examples of files that can be used to write to the screen, or to
