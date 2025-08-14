@@ -2,4 +2,5 @@ run: build
 	@./main.out
 
 build:
-	@gcc -o main.out main.c
+	@gcc -Wall -Wextra -std=c11 main.c -o main.out
+

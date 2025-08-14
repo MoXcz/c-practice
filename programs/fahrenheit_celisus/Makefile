@@ -3,5 +3,5 @@ run: build
 	@./celsius-fahr.out
 
 build:
-	@gcc -o fahr-celsius.out fahr-celsius.c
-	@gcc -o celsius-fahr.out celsius-fahr.c
+	@gcc -Wall -Wextra -std=c11 -o fahr-celsius.out fahr-celsius.c
+	@gcc -Wall -Wextra -std=c11 -o celsius-fahr.out celsius-fahr.c
