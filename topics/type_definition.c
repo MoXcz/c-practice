@@ -2,9 +2,9 @@
  * One of the neat things about aliasing existing types is that changing them
  * latter becomes really easy: just change the 'typedef' declaration.
  * 'typedef int num;' -> 'typedef float num;'
- * but this can be easily done with vim so I guess it's use in this area is
+ * but this can be easily done with vim so I guess its use in this area is
  * still not precisely known to me.
- * Some types that are better not aliased:
+ * Some types that are better not aliased / 'typedef'd:
  * - Arrays:
  *   typedef int five_ints[5];
  *   five_ints x = {11, 22, 33, 44, 55}; it's not clear that it's an array
