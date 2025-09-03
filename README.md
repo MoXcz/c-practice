@@ -5,7 +5,7 @@
 
 ## Topics
 
-### C
+### C ->
 
 1. Pointers: Void pointers and Arithmetic
 2. Arrays (`*`)
