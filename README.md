@@ -7,14 +7,23 @@
 
 ### C ->
 
+#### Basics
+
 1. Pointers: Void pointers and Arithmetic
-2. Arrays (`*`)
+2. Arrays (`*` and `[]`)
 3. Strings (`char *`)
 4. Scope
 5. Memory: Alignment and Allocation
 6. `struct`s
-7. Type definitions
+7. Type definitions (get `typedef`'d)
 8. `signed` and `unsigned`
+9. Type qualifiers
+10. Macros
+11. Exit codes and arguments
+
+#### Algorithms
+
+- Single linked list
 
 ### Sockets ->
 
